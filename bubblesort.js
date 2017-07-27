@@ -27,7 +27,7 @@ function swap(arr, i){
   arr[i+1] = arr[i];
   arr[i] = tempVar;
 
-  returns arr;
+  return arr;
 }
 
 
